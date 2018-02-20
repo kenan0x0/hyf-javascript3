@@ -1,0 +1,12 @@
+body{
+    background-color:gray;
+    margin-left:15%;
+    margin-right:15%;
+}
+#root{
+    background-color: white;
+    padding : 1%;
+}
+#div2{
+    text-align: center;
+}
